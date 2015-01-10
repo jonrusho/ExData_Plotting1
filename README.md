@@ -8,6 +8,8 @@ The original README.md follows these notes.
 This repo contains the following:
 * plot1.R    R code for creating the first histogram of global active power usage
 * plot1.png  Output png histogram graphic
+* plot2.R    R code for creating simple line plot of global active power vs. day
+* plot2.png  Output line plot png 
 
 
 
