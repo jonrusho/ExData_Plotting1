@@ -1,5 +1,23 @@
 ## Introduction
 
+This repo is for Exploratory Data Analysis Coursera MOOC.
+January 2015
+
+The original README.md follows these notes.
+
+This repo contains the following:
+* plot1.R    R code for creating the first histogram of global active power usage
+* plot1.png  Output png histogram graphic
+
+
+
+
+
+
+
+
+## Introduction
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
