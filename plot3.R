@@ -30,7 +30,7 @@ lines(ndat$Sub_metering_2,type='l',col=plot_colors[2])
 lines(ndat$Sub_metering_3,type='l',col=plot_colors[3])
 
 # add legend
-legend(1860,40,c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),col=plot_colors,lty=1)
+legend("topright",c("Sub_metering_1","Sub_metering_2","Sub_metering_3"),col=plot_colors,lty=1)
 
 
 
