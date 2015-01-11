@@ -12,6 +12,8 @@ This repo contains the following:
 * plot2.png  Output line plot png 
 * plot3.R    R code for creating sub metering line plot
 * plot3.png  Output line plot for submetering
+* plot4.R    R code for creating 2x2 plot of Active Power, Voltage, Submetering and Reactive power
+* plot4.png  Output 2x2 plot
 
 
 
