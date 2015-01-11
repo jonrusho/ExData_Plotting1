@@ -10,6 +10,8 @@ This repo contains the following:
 * plot1.png  Output png histogram graphic
 * plot2.R    R code for creating simple line plot of global active power vs. day
 * plot2.png  Output line plot png 
+* plot3.R    R code for creating sub metering line plot
+* plot3.png  Output line plot for submetering
 
 
 
